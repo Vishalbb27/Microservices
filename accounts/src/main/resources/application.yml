@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: accounts
+  datasource:
+    url: jdbc:mysql://localhost/accounts
+    username: root
+    password: root
+  jpa:
+    properties:
+      hibernate:
+        format_sql: true
+    hibernate:
+      ddl-auto: update
+  logging:
+    level:
+      org.hibernate:
+        INFO
+      org.hibernate.SQL:
+        TRACE
+      org.hibernate.type.descriptor.sql.BasicBinder:
+        TRACE
