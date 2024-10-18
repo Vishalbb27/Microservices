@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed5d8f50-f9c5-465d-9026-e0fb7aee8c51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../accounts/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../accounts/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../accounts/src/main/java/com/bank/accounts/AccountsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../accounts/src/main/java/com/bank/accounts/AccountsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../accounts/src/main/java/com/bank/accounts/entity/Accounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../accounts/src/main/java/com/bank/accounts/entity/Accounts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../accounts/src/main/java/com/bank/accounts/entity/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../accounts/src/main/java/com/bank/accounts/entity/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../accounts/src/main/java/com/bank/accounts/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../accounts/src/main/java/com/bank/accounts/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../accounts/src/main/java/com/bank/accounts/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../accounts/src/main/java/com/bank/accounts/repository/CustomerRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2kE8eRChLZrgei4EdafgOQhZXXn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed5d8f50-f9c5-465d-9026-e0fb7aee8c51" name="Changes" comment="" />
+      <created>1722837470459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722837470459</updated>
+    </task>
+    <servers />
+  </component>
+</project>

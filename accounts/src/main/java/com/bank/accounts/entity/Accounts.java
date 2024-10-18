@@ -1,6 +1,8 @@
 package com.bank.accounts.entity;
 
 import jakarta.persistence.*;
+import jakarta.validation.constraints.NotEmpty;
+import jakarta.validation.constraints.Pattern;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -15,11 +17,10 @@ import java.time.LocalDate;
 @Entity
 public class Accounts extends BaseEntity {
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    int account_id;
+    int accountNumber;
 
-    int customer_id;
-    String account_type;
-    String branch_address;
+    int customerId;
+    String accountType;
+    String branchAddress;
 
 }

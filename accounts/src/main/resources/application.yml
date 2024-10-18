@@ -19,3 +19,6 @@ spring:
         TRACE
       org.hibernate.type.descriptor.sql.BasicBinder:
         TRACE
+
+build:
+  version: "1.0"
